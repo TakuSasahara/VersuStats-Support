@@ -4,6 +4,7 @@
 現在編集中。
 
 [Google](https://www.google.co.jp/)
+[PrivacyPolict](./privacy-policy.md)
 
 ### Support or Contact
 
