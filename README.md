@@ -3,8 +3,7 @@
 このページではアプリの使用方法を記載していきます。
 現在編集中。
 
-[Google](https://www.google.co.jp/)
-[PrivacyPolict](./privacy-policy.md)
+[PrivacyPolicy](./PrivacyPolicy-English.md)
 
 ### Support or Contact
 
