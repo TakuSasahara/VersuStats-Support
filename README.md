@@ -10,5 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Support or Contact
 
 本アプリについて問題がございましたら、こちらまでご連絡いただけると幸いです。
+
 Twitter: VersuStats公式 @VersuStatsSupport
+
 Mail: 
